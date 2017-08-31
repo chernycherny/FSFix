@@ -1,7 +1,7 @@
 # FSFix
-FSFix uses Illumina short reads to fix frameshift (indel) errors in a Pacbio assembly. It fixes many of the remaining insertions or deletions (indels) in homopolymer regions, and indels caused by reads that were derived from heterozygous haplotigs, even after assembly polishing by Arrow, Quiver, and Pilon. This program was used in a xxx genome assembly project (link to publication xxx), where it fixed 1255 indels in a 720Mb assembly.
+FSFix uses Illumina short reads to fix frameshift (indel) errors in a Pacbio assembly. It fixes many of the remaining insertions or deletions (indels) in homopolymer regions, and indels caused by reads that were derived from heterozygous haplotigs, even after assembly polishing by Arrow, Quiver, and Pilon. This program was used in a durian genome assembly project (link to publication xxx), where it fixed 1255 indels in a 720Mb assembly.
 
-This program was written by xxx. Please contact me at xxx if you have any questions.
+This program was written by Chern Han Yong. Please contact me at chernycherny@hotmail.com if you have any questions.
 
 
 CITATION
