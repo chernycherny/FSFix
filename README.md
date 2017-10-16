@@ -1,12 +1,12 @@
 # FSFix
-FSFix uses Illumina short reads to fix frameshift (indel) errors in a Pacbio assembly. It fixes many of the remaining insertions or deletions (indels) in homopolymer regions, and indels caused by reads that were derived from heterozygous haplotigs, even after assembly polishing by Arrow, Quiver, and Pilon. This program was used in a durian genome assembly project (link to publication xxx), where it fixed 1255 indels in a 720Mb assembly.
+FSFix uses Illumina short reads to fix frameshift (indel) errors in a Pacbio assembly. It fixes many of the remaining insertions or deletions (indels) in homopolymer regions, and indels caused by reads that were derived from heterozygous haplotigs, even after assembly polishing by Arrow, Quiver, and Pilon. This program was used in a durian genome assembly project (doi:10.1038/ng.3972), where it fixed 1255 indels in a 720Mb assembly.
 
 This program was written by Chern Han Yong. Please contact me at chernycherny@hotmail.com if you have any questions.
 
 
 CITATION
 
-If you use this program, please cite: xxx. 
+If you use this program, please cite: Bin Tean Teh,	Kevin Lim,	Chern Han Yong,	Cedric Chuan Young Ng, Sushma Ramesh Rao, Vikneswari Rajasegaran, Weng Khong Lim,	Choon Kiat Ong,	Ki Chan,	Vincent Kin Yuen Cheng,	Poh Sheng Soh, Sanjay Swarup,	Steven G Rozen,	Niranjan Nagarajan & Patrick Tan. The draft genome of tropical fruit durian (Durio zibethinus). Nature Genetics 2017. doi:10.1038/ng.3972
 
 
 REQUIREMENTS
